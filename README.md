@@ -8,7 +8,7 @@
 
 <div align="center">
 
-  <img height="200" src="https://robertheaton.com/images/snake-example.gif" alt="Snake" />
+  <img height="200" src="https://i.pinimg.com/originals/c6/e7/7f/c6e77f9f5a098890ff15eb3ad430fbae.gif" alt="Animation" />
 
 </div>
 
