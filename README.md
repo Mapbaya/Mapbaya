@@ -1,6 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=4000&pause=1000&color=7DD87D&center=true&vCenter=true&width=600&lines=✨+Building+in+the+shadows+✨;🌙+Code+is+poetry+in+motion+🌙" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=4000&pause=1000&color=7DD87D&center=true&vCenter=true&width=600&lines=✨+Building+in+the+shadows+✨;🌙+코드는+시와+같다+🌙" alt="Typing SVG" />
+
+</div>
+
+---
+
+<div align="center">
+
+  <img height="200" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
+  
+  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder" />
+  
+  <img height="200" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
 
 </div>
 
@@ -10,7 +22,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/mapbaya?style=for-the-badge&logo=github&color=7DD87D&labelColor=1a1a2e&logoColor=white)](https://github.com/mapbaya)
 [![GitHub stars](https://img.shields.io/badge/GitHub-Stars-FCD34D?style=for-the-badge&logo=github&color=7DD87D&labelColor=1a1a2e)](https://github.com/mapbaya)
-![Profile Views](https://visitor-badge.laobi.icu/badge?page_id=mapbaya.mapbaya&left_color=7DD87D&right_color=1a1a2e&left_text=Visitors)
 
 </div>
 
@@ -18,32 +29,46 @@
 
 ## 🌙 **About**
 
+<div align="center">
+
 ```python
 class Developer:
     def __init__(self):
-        self.status = "Working on something..."
+        self.passion = "Informatique & Cybersécurité"
+        self.status = "Building something..."
         self.mode = "stealth"
-        self.visibility = "low"
         self.energy = "mysterious"
     
     def work(self):
+        # 코드는 스토리를 말한다
         # The code tells the story
-        # Check repositories to understand the journey
         return self.repositories
     
     def __str__(self):
         return "Building in the shadows, one commit at a time"
 ```
 
-*"The code speaks for itself, like whispers in the digital wind."*
+*"The code speaks for itself, like whispers in the digital wind."*  
+*"코드가 모든 것을 말해준다"*
+
+</div>
 
 ---
 
-## 🛠️ **Tools**
+## 🛠️ **Tech & Tools**
 
 <div align="center">
 
-*"The right tool for the right moment..."*
+  <img align="center" alt="Terminal" height="150" src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" />
+  
+  <img align="center" alt="Code" height="150" src="https://media.giphy.com/media/26n7b7PjSOZ2sGKog/giphy.gif" />
+
+</div>
+
+<div align="center">
+
+*"The right tool for the right moment..."*  
+*"올바른 순간에 올바른 도구를"*
 
 *Check my repositories to see what I use.*
 
@@ -57,25 +82,7 @@ class Developer:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mapbaya&show_icons=true&theme=dark&bg_color=1a1a2e&title_color=7DD87D&icon_color=7DD87D&text_color=ffffff&border_color=7DD87D&hide_border=false&include_all_commits=true&count_private=true)
 
-![GitHub Streak](https://github-readme-streak-stats.demolab.com/?user=mapbaya&theme=dark&background=1a1a2e&border=7DD87D&ring=7DD87D&fire=7DD87D&currStreakLabel=7DD87D&sideLabels=7DD87D&sideNums=7DD87D)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mapbaya&layout=compact&theme=dark&bg_color=1a1a2e&title_color=7DD87D&text_color=ffffff&border_color=7DD87D&hide_border=false)
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mapbaya&theme=darkhub&no-frame=false&no-bg=false&margin-w=4&column=7&title=Stars,Commit,Issues,PullRequest)
-
-</div>
-
----
-
-## 💻 **Activity**
-
-<div align="center">
-
-```text
-         🌙  The journey continues...  🌙
-```
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=mapbaya&theme=github-dark&bg_color=1a1a2e&color=7DD87D&line=7DD87D&point=7DD87D&area=true&hide_border=true&radius=8)
 
 </div>
 
@@ -85,9 +92,17 @@ class Developer:
 
 <div align="center">
 
-*"Every project is a story waiting to be told..."*
+  <img height="180em" src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" alt="Hacker" />
 
-*Explore my repositories to see what I'm building.*
+</div>
+
+<div align="center">
+
+*"Every project is a story waiting to be told..."*  
+*"모든 프로젝트는 전설될 이야기다"*
+
+*Explore my repositories to see what I'm building.*  
+*저의 저장소를 탐색하여 제가 구축하는 것을 확인하세요.*
 
 </div>
 
@@ -97,7 +112,14 @@ class Developer:
 
 <div align="center">
 
-*"Alone we can do so little; together we can do so much."*
+  <img height="150" src="https://media.giphy.com/media/26u4cqiYI30juCOGY/giphy.gif" alt="Team" />
+
+</div>
+
+<div align="center">
+
+*"Alone we can do so little; together we can do so much."*  
+*"함께하면 더 많은 것을 할 수 있다"*
 
 *Open to interesting projects and meaningful collaborations.*
 
@@ -109,7 +131,14 @@ class Developer:
 
 <div align="center">
 
-*"The best way to reach me is through the code itself."*
+  <img height="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Contact" />
+
+</div>
+
+<div align="center">
+
+*"The best way to reach me is through the code itself."*  
+*"코드를 통해 나에게 도달하세요"*
 
 *Available through GitHub.*
 
@@ -119,7 +148,8 @@ class Developer:
 
 <div align="center">
 
-### ✨ **"In code we trust, in silence we build"** ✨
+### ✨ **"In code we trust, in silence we build"** ✨  
+### ✨ **"코드를 믿고, 침묵 속에서 구축한다"** ✨
 
 ```text
     🌙  ✨  🌙  ✨  🌙  ✨  🌙
@@ -127,7 +157,8 @@ class Developer:
 
 **Made with ❤️ and ☕**
 
-*"The code is the art, the commit is the signature."*
+*"The code is the art, the commit is the signature."*  
+*"코드는 예술이고, 커밋은 서명이다."*
 
 ```text
 ██╗  ██╗ █████╗  ██████╗██╗  ██╗███████╗██████╗ 
