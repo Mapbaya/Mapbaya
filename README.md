@@ -6,6 +6,13 @@
 
 ---
 
+<div align="center">
+
+  <img height="200" src="https://robertheaton.com/images/snake-example.gif" alt="Snake" />
+
+</div>
+
+---
 
 <div align="center">
 
@@ -53,8 +60,7 @@ main "$@"
 
 <div align="center">
 
-<!-- You can add images/wallpapers here -->
-<!-- Example: <img height="180" src="path/to/your/image.png" alt="Description" /> -->
+
 
 *"The right tool for the right moment..."*  
 *"올바른 순간에 올바른 도구를"*
@@ -81,8 +87,7 @@ main "$@"
 
 <div align="center">
 
-<!-- You can add a project showcase image/wallpaper here -->
-<!-- Example: <img height="200" src="path/to/project-showcase.png" alt="Projects" /> -->
+  <img height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExdG5ucXBhM3N0c2Myem53b3lkOXEyZ3hhYnRydWQ5amk5c3g4ZWg3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/wwg1suUiTbCY8H8vIA/giphy.gif" alt="Projects" />
 
 *"Every project tells a story..."*  
 *"모든 프로젝트는 이야기를 전한다"*
@@ -98,8 +103,6 @@ main "$@"
 
 <div align="center">
 
-<!-- You can add a collaboration-related image here -->
-<!-- Example: <img height="150" src="path/to/collaboration-image.png" alt="Collaboration" /> -->
 
 *"Alone we are limited; together we are limitless."*  
 *"함께하면 제한이 없다"*
@@ -119,8 +122,6 @@ main "$@"
 
 <div align="center">
 
-<!-- You can add a contact/connection image here -->
-<!-- Example: <img height="150" src="path/to/contact-image.png" alt="Contact" /> -->
 
 *"The best connection is through code."*  
 *"코드를 통한 연결이 최선이다"*
