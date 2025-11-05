@@ -6,7 +6,7 @@
 
 ---
 
-https://robertheaton.com/images/snake-example.gif
+
 <div align="center">
 
 [![GitHub followers](https://img.shields.io/github/followers/mapbaya?style=for-the-badge&logo=github&color=FF0000&labelColor=0d1117&logoColor=white)](https://github.com/mapbaya)
