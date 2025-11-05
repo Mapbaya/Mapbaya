@@ -8,8 +8,16 @@
 
 <div align="center">
 
-  <img height="200" src="https://i.pinimg.com/originals/c6/e7/7f/c6e77f9f5a098890ff15eb3ad430fbae.gif" alt="Animation" />
-  <img height="200" src="https://i.pinimg.com/originals/bb/2b/d0/bb2bd06afd95e9cd0f370cdc622a66bf.gif" alt="Animation 2" />
+<table>
+  <tr>
+    <td>
+      <img height="200" src="https://i.pinimg.com/originals/c6/e7/7f/c6e77f9f5a098890ff15eb3ad430fbae.gif" alt="Animation" />
+    </td>
+    <td>
+      <img height="200" src="https://i.pinimg.com/originals/bb/2b/d0/bb2bd06afd95e9cd0f370cdc622a66bf.gif" alt="Animation 2" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
@@ -27,6 +35,8 @@
 ## <span style="color:#FF0000">**About**</span>
 
 <div align="center">
+
+<div style="text-align: center;">
 
 ```bash
 #!/bin/bash
@@ -49,6 +59,8 @@ main() {
 
 main "$@"
 ```
+
+</div>
 
 *"In the shadows of code, truth emerges."*  
 *"코드의 그림자 속에서 진실이 나타난다"*
