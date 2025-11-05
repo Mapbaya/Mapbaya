@@ -9,7 +9,7 @@
 <div align="center">
 
   <img height="200" src="https://i.pinimg.com/originals/c6/e7/7f/c6e77f9f5a098890ff15eb3ad430fbae.gif" alt="Animation" />
-  
+  <img height="200" src="https://i.pinimg.com/originals/bb/2b/d0/bb2bd06afd95e9cd0f370cdc622a66bf.gif" alt="Animation 2" />
 
 </div>
 
@@ -142,9 +142,5 @@ main "$@"
 
 *"Code is the art, commit is the signature."*  
 *"코드는 예술이고, 커밋은 서명이다."*
-
----
-  <img height="200" src="https://i.pinimg.com/originals/bb/2b/d0/bb2bd06afd95e9cd0f370cdc622a66bf.gif" alt="Animation 2" />
----
 
 </div>
