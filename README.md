@@ -6,17 +6,7 @@
 
 ---
 
-<div align="center">
 
-  <img height="200" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
-  
-  <img height="200" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
-  
-  <img height="200" src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
 
 <div align="center">
 
@@ -31,21 +21,68 @@
 
 <div align="center">
 
-```python
-class Developer:
-    def __init__(self):
-        self.status = "Operational"
-        self.mode = "stealth"
-        self.visibility = "low"
-        self.trace = "minimal"
+```bash
+#!/bin/bash
+
+# Color codes
+RED='\033[0;31m'
+GREEN='\033[0;32m'
+YELLOW='\033[1;33m'
+NC='\033[0m' # No Color
+
+# Configuration
+STATUS="Operational"
+MODE="stealth"
+VISIBILITY=0
+TRACE_LEVEL=1
+REPOSITORIES=()
+declare -A ACTIVE_PROJECTS
+
+# Functions
+execute() {
+    local operation="$1"
     
-    def execute(self):
-        # 코드는 모든 것을 말한다
-        # The code reveals everything
-        return self.repositories
+    if [[ "$MODE" == "stealth" ]]; then
+        return 1
+    fi
     
-    def __str__(self):
-        return "Silent operations, visible results"
+    echo -e "${GREEN}[+]${NC} Executed: $operation"
+    return 0
+}
+
+get_repositories() {
+    # 코드는 모든 것을 말한다 - The code reveals everything
+    printf '%s\n' "${REPOSITORIES[@]}"
+}
+
+add_project() {
+    local project_name="$1"
+    local is_active="${2:-true}"
+    
+    ACTIVE_PROJECTS["$project_name"]="$is_active"
+    echo -e "${YELLOW}[*]${NC} Project registered: $project_name"
+}
+
+show_status() {
+    echo -e "${RED}Status:${NC} $STATUS"
+    echo -e "${RED}Mode:${NC} $MODE"
+    echo -e "${RED}Visibility:${NC} $VISIBILITY"
+    echo -e "${RED}Trace Level:${NC} $TRACE_LEVEL"
+    
+    if [[ ${#REPOSITORIES[@]} -gt 0 ]]; then
+        echo -e "${GREEN}Repositories:${NC}"
+        printf '  - %s\n' "${REPOSITORIES[@]}"
+    fi
+}
+
+# Main execution
+main() {
+    echo -e "${RED}[*]${NC} Initializing system..."
+    show_status
+    echo -e "${GREEN}[+]${NC} System ready"
+}
+
+main "$@"
 ```
 
 *"In the shadows of code, truth emerges."*  
@@ -59,13 +96,7 @@ class Developer:
 
 <div align="center">
 
-  <img height="180" src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Terminal" />
-  
-  <img height="180" src="https://media.giphy.com/media/26n7b7PjSOZ2sGKog/giphy.gif" alt="Code" />
 
-</div>
-
-<div align="center">
 
 *"The right tool for the right moment..."*  
 *"올바른 순간에 올바른 도구를"*
@@ -92,11 +123,7 @@ class Developer:
 
 <div align="center">
 
-  <img height="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Code" />
 
-</div>
-
-<div align="center">
 
 *"Every project tells a story..."*  
 *"모든 프로젝트는 이야기를 전한다"*
@@ -112,16 +139,17 @@ class Developer:
 
 <div align="center">
 
-  <img height="150" src="https://media.giphy.com/media/3o7aCTPPm4OHfRLSH6/giphy.gif" alt="Network" />
 
-</div>
-
-<div align="center">
 
 *"Alone we are limited; together we are limitless."*  
 *"함께하면 제한이 없다"*
 
-*Open to meaningful collaborations.*
+**I love collaborating on interesting projects!** 🚀
+
+*Don't hesitate to reach out if you have an exciting project, want to collaborate, or need help with something.*  
+*흥미로운 프로젝트가 있다면 망설이지 말고 연락주세요!*
+
+*Open to meaningful collaborations, open-source contributions, and innovative tech solutions.*
 
 </div>
 
@@ -131,11 +159,6 @@ class Developer:
 
 <div align="center">
 
-  <img height="150" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" alt="Connection" />
-
-</div>
-
-<div align="center">
 
 *"The best connection is through code."*  
 *"코드를 통한 연결이 최선이다"*
@@ -150,8 +173,6 @@ class Developer:
 
 ### <span style="color:#FF0000">**"In code we trust, in silence we build"**</span>  
 ### <span style="color:#FF0000">**"코드를 믿고, 침묵 속에서 구축한다"**</span>
-
-
 
 **Made with ❤️ and ☕**
 
