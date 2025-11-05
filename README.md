@@ -6,7 +6,8 @@
 
 ---
 
-
+<!-- You can add a wallpaper/image here -->
+<!-- Example: <img height="200" src="path/to/your/wallpaper.png" /> -->
 
 <div align="center">
 
@@ -24,62 +25,20 @@
 ```bash
 #!/bin/bash
 
-# Color codes
-RED='\033[0;31m'
-GREEN='\033[0;32m'
-YELLOW='\033[1;33m'
-NC='\033[0m' # No Color
-
-# Configuration
-STATUS="Operational"
+STATUS="operational"
 MODE="stealth"
-VISIBILITY=0
-TRACE_LEVEL=1
-REPOSITORIES=()
-declare -A ACTIVE_PROJECTS
+TRACE=1
 
-# Functions
 execute() {
-    local operation="$1"
-    
-    if [[ "$MODE" == "stealth" ]]; then
-        return 1
-    fi
-    
-    echo -e "${GREEN}[+]${NC} Executed: $operation"
-    return 0
+    [[ "$MODE" == "stealth" ]] && return 1
+    echo "[+] $1"
 }
 
-get_repositories() {
-    # 코드는 모든 것을 말한다 - The code reveals everything
-    printf '%s\n' "${REPOSITORIES[@]}"
-}
+# 코드는 모든 것을 말한다
+get_repos() { printf '%s\n' "${repos[@]}"; }
 
-add_project() {
-    local project_name="$1"
-    local is_active="${2:-true}"
-    
-    ACTIVE_PROJECTS["$project_name"]="$is_active"
-    echo -e "${YELLOW}[*]${NC} Project registered: $project_name"
-}
-
-show_status() {
-    echo -e "${RED}Status:${NC} $STATUS"
-    echo -e "${RED}Mode:${NC} $MODE"
-    echo -e "${RED}Visibility:${NC} $VISIBILITY"
-    echo -e "${RED}Trace Level:${NC} $TRACE_LEVEL"
-    
-    if [[ ${#REPOSITORIES[@]} -gt 0 ]]; then
-        echo -e "${GREEN}Repositories:${NC}"
-        printf '  - %s\n' "${REPOSITORIES[@]}"
-    fi
-}
-
-# Main execution
 main() {
-    echo -e "${RED}[*]${NC} Initializing system..."
-    show_status
-    echo -e "${GREEN}[+]${NC} System ready"
+    echo "[*] Status: $STATUS | Mode: $MODE | Trace: $TRACE"
 }
 
 main "$@"
@@ -96,7 +55,8 @@ main "$@"
 
 <div align="center">
 
-
+<!-- You can add images/wallpapers here -->
+<!-- Example: <img height="180" src="path/to/your/image.png" alt="Description" /> -->
 
 *"The right tool for the right moment..."*  
 *"올바른 순간에 올바른 도구를"*
@@ -123,7 +83,8 @@ main "$@"
 
 <div align="center">
 
-
+<!-- You can add a project showcase image/wallpaper here -->
+<!-- Example: <img height="200" src="path/to/project-showcase.png" alt="Projects" /> -->
 
 *"Every project tells a story..."*  
 *"모든 프로젝트는 이야기를 전한다"*
@@ -139,7 +100,8 @@ main "$@"
 
 <div align="center">
 
-
+<!-- You can add a collaboration-related image here -->
+<!-- Example: <img height="150" src="path/to/collaboration-image.png" alt="Collaboration" /> -->
 
 *"Alone we are limited; together we are limitless."*  
 *"함께하면 제한이 없다"*
@@ -159,6 +121,8 @@ main "$@"
 
 <div align="center">
 
+<!-- You can add a contact/connection image here -->
+<!-- Example: <img height="150" src="path/to/contact-image.png" alt="Contact" /> -->
 
 *"The best connection is through code."*  
 *"코드를 통한 연결이 최선이다"*
