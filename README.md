@@ -73,12 +73,21 @@ main "$@"
 
 <div align="center">
 
-
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Shell](https://img.shields.io/badge/Shell-FF0000?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 *"The right tool for the right moment..."*  
 *"올바른 순간에 올바른 도구를"*
 
-*Check repositories for details.*
+**Stack principale / Main stack:** C++, Java, Python, PHP, Flutter, Shell, Docker, Git.
 
 </div>
 
@@ -104,6 +113,15 @@ main "$@"
 
 *"Every project tells a story..."*  
 *"모든 프로젝트는 이야기를 전한다"*
+
+| Projet | Description | Stack |
+|--------|-------------|-------|
+| [**API_frontEnd**](https://github.com/Mapbaya/API_frontEnd) | Frontend Flutter pour l'ERP pédagogique IUT (articles, fournisseurs, fiches produits) | Flutter, REST |
+| [**Poloka**](https://github.com/Mapbaya/Poloka) | Blockchain légère en C++ (PoW, transactions, réseau P2P) | C++, OpenSSL, Docker |
+| [**OpenVpn-Server**](https://github.com/Mapbaya/OpenVpn-Server) | Serveur OpenVPN avec scripts d'installation et gestion des clients | Shell, OpenVPN |
+| [**Academic-Management-Portal**](https://github.com/Mapbaya/Academic-Management-Portal) | Portail web de gestion académique (étudiants, cours, modules) | PHP, MySQL, MVC |
+| [**magasin_projet_ihm**](https://github.com/Mapbaya/magasin_projet_ihm) | Optimisation de parcours en supermarché (IHM Python, graphes) | Python, JSON |
+| [**Chess-game-with-pokemons**](https://github.com/Mapbaya/Chess-game-with-pokemons) | Jeu d'échecs graphique avec pièces personnalisées (Tavalier, Favalier) | Java, MG2D |
 
 *Explore repositories to discover more.*  
 *저장소를 탐색하여 더 알아보세요.*
