@@ -124,6 +124,7 @@ main "$@"
 | [**API_frontEnd**](https://github.com/Mapbaya/API_frontEnd) | Frontend Flutter pour l'ERP pédagogique IUT (articles, fournisseurs, fiches produits) | Flutter, Dart, REST |
 | [**Poloka**](https://github.com/Mapbaya/Poloka) | Blockchain légère en C++ (PoW, transactions, réseau P2P) | C++, OpenSSL, Docker |
 | [**OpenVpn-Server**](https://github.com/Mapbaya/OpenVpn-Server) | Serveur OpenVPN avec scripts d'installation et gestion des clients | Shell, OpenVPN |
+| [**Custom-Firewall**](https://github.com/Mapbaya/Custom-Firewall) | Pare-feu Linux personnalisable — profils nftables, CLI Shell | Shell, nftables, Linux |
 | [**Academic-Management-Portal**](https://github.com/Mapbaya/Academic-Management-Portal) | Portail web de gestion académique (étudiants, cours, modules) | PHP, MySQL, MVC |
 | [**magasin_projet_ihm**](https://github.com/Mapbaya/magasin_projet_ihm) | Optimisation de parcours en supermarché (IHM Python, graphes) | Python, JSON |
 | [**Chess-game-with-pokemons**](https://github.com/Mapbaya/Chess-game-with-pokemons) | Jeu d'échecs graphique avec pièces personnalisées (Tavalier, Favalier) | Java, MG2D |
