@@ -97,9 +97,14 @@ main "$@"
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mapbaya&show_icons=true&theme=dark&bg_color=0d1117&title_color=FF0000&icon_color=FF0000&text_color=ffffff&border_color=FF0000&hide_border=false&include_all_commits=true&count_private=true)
+[![GitHub followers](https://img.shields.io/github/followers/mapbaya?style=for-the-badge&logo=github&color=FF0000&labelColor=0d1117&logoColor=white)](https://github.com/mapbaya)
+[![Public repos](https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/mapbaya&query=%24.public_repos&style=for-the-badge&label=REPOS&color=FF0000&labelColor=0d1117&logo=github&logoColor=white)](https://github.com/mapbaya?tab=repositories)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mapbaya&layout=compact&theme=dark&bg_color=0d1117&title_color=FF0000&text_color=ffffff&border_color=FF0000&hide_border=false)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mapbaya&theme=dark&background=0d1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=ffffff&dates=ffffff)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mapbaya&theme=2077)
+
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mapbaya&theme=2077)
 
 </div>
 
@@ -172,5 +177,9 @@ main "$@"
 
 *"Code is the art, commit is the signature."*  
 *"코드는 예술이고, 커밋은 서명이다."*
+
+<!-- Snake animation (uncomment after GitHub Actions billing is restored and dist/ exists):
+![Snake animation](https://raw.githubusercontent.com/mapbaya/mapbaya/dist/github-contribution-grid-snake-dark.svg)
+-->
 
 </div>
