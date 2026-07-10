@@ -181,8 +181,4 @@ main "$@"
 *"Code is the art, commit is the signature."*  
 *"코드는 예술이고, 커밋은 서명이다."*
 
-<!-- Snake animation (uncomment after GitHub Actions billing is restored and dist/ exists):
-![Snake animation](https://raw.githubusercontent.com/mapbaya/mapbaya/dist/github-contribution-grid-snake-dark.svg)
--->
-
 </div>
